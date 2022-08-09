@@ -4,5 +4,5 @@
 - You can simply use them on your servers and change them as you like.
 - Have fun ツ
 
-###Bugs
+### Bugs
 - If there should be any problems, please write to me and we will find a solution.
