@@ -1,0 +1,5 @@
+name: BannAfterDie
+version: '${project.version}'
+main: de.geckobyte.bannafterdie.main.BannAfterDieCore
+api-version: 1.19
+authors: [ Geckobyte ]
